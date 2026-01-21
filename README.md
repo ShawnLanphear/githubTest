@@ -1,2 +1,2 @@
-# gitHubTest
+# githubTest
 Repository Test
